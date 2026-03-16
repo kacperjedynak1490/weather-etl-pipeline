@@ -1,0 +1,39 @@
+name: Weather ETL Pipeline
+
+on:
+    schedule:
+        - cron: '0 */6 * * *'
+
+jobs:
+    run-etl:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Setup Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: '3.11'
+
+            - name: Install dependencies
+              run: |
+                python -m pip install --upgrade pip
+                pip install -r requirements.txt
+
+            - name: Run ETL script
+              env:
+                 API_KEY: ${{ secrets.API_KEY }}
+                 DB_URL: ${{ secrets.DB_URL }}
+              run: python etl.py
+
+            - name: Push report
+              run: |
+                git config --global user.name "github-actions[bot]"
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                git add average_temp.txt
+                git commit -m "Automatyczna aktualizacja raportu" || echo "Brak zmian"
+                git push
