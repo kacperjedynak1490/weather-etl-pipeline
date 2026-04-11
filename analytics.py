@@ -26,7 +26,7 @@ def generuj_raport():
         cursor = conn.cursor()
         #zapytanie do sql liczace srednia temperature dla kazdego z miast
         sql = "SELECT city, AVG(temperature), EXTRACT(MONTH from timestamp) FROM weather_log " \
-            "GROUP BY city, EXTRACT(MONTH from timestamp)"
+            "GROUP BY city, EXTRACT(MONTH from timestamp) ORDER BY city ASC, EXTRACT(MONTH from timestamp) ASC"
         #aby czytac uzywamy cursor.fetchall()
         cursor.execute(sql)
         wyniki = cursor.fetchall()
