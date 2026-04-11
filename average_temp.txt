@@ -1,22 +1,22 @@
 Analiza średniej temperatury powietrza w danym mieście:
 
-Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
+Srednia wartosci temperatury dla Kraków w miesiacu Marzec wynosi 7.5°C
 ************************************************************
-Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
-************************************************************
-Srednia wartosci temperatury dla Radom w miesiacu Kwiecień wynosi 8.9°C
-************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
+Srednia wartosci temperatury dla Kraków w miesiacu Kwiecień wynosi 9.0°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
-Srednia wartosci temperatury dla Poznań w miesiacu Kwiecień wynosi 11.5°C
+Srednia wartosci temperatury dla Poznań w miesiacu Kwiecień wynosi 11.6°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Kwiecień wynosi 8.9°C
+Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Kwiecień wynosi 11.7°C
+Srednia wartosci temperatury dla Radom w miesiacu Kwiecień wynosi 9.1°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Marzec wynosi 7.5°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 10.1°C
+************************************************************
+Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
+************************************************************
+Srednia wartosci temperatury dla Wrocław w miesiacu Kwiecień wynosi 11.5°C
 ************************************************************
