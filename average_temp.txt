@@ -2,21 +2,21 @@ Analiza średniej temperatury powietrza w danym mieście:
 
 Srednia wartosci temperatury dla Kraków w miesiacu Marzec wynosi 7.5°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Kwiecień wynosi 6.5°C
+Srednia wartosci temperatury dla Kraków w miesiacu Kwiecień wynosi 7.3°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
-Srednia wartosci temperatury dla Poznań w miesiacu Kwiecień wynosi 8.8°C
+Srednia wartosci temperatury dla Poznań w miesiacu Kwiecień wynosi 9.5°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
 ************************************************************
-Srednia wartosci temperatury dla Radom w miesiacu Kwiecień wynosi 7.1°C
+Srednia wartosci temperatury dla Radom w miesiacu Kwiecień wynosi 8.0°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 8.3°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 9.3°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Kwiecień wynosi 8.4°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Kwiecień wynosi 9.0°C
 ************************************************************
