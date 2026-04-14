@@ -14,7 +14,7 @@ Srednia wartosci temperatury dla Radom w miesiacu Kwiecień wynosi 8.3°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 9.1°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 9.0°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
