@@ -22,7 +22,7 @@ Srednia wartosci temperatury dla Radom w miesiacu Kwiecień wynosi 9.8°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Maj wynosi 15.9°C
 ************************************************************
-Srednia wartosci temperatury dla Radom w miesiacu Czerwiec wynosi 17.8°C
+Srednia wartosci temperatury dla Radom w miesiacu Czerwiec wynosi 17.9°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
