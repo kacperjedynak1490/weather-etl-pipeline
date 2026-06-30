@@ -30,7 +30,7 @@ Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 9.9°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Maj wynosi 16.2°C
 ************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Czerwiec wynosi 20.6°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Czerwiec wynosi 20.7°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
