@@ -48,5 +48,5 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Maj wynosi 15.7°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Czerwiec wynosi 20.1°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Lipiec wynosi 19.9°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Lipiec wynosi 19.8°C
 ************************************************************
