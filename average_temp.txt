@@ -8,7 +8,7 @@ Srednia wartosci temperatury dla Kraków w miesiacu Maj wynosi 15.6°C
 ************************************************************
 Srednia wartosci temperatury dla Kraków w miesiacu Czerwiec wynosi 20.5°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Lipiec wynosi 19.9°C
+Srednia wartosci temperatury dla Kraków w miesiacu Lipiec wynosi 19.8°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
