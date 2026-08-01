@@ -10,6 +10,8 @@ Srednia wartosci temperatury dla Kraków w miesiacu Czerwiec wynosi 20.5°C
 ************************************************************
 Srednia wartosci temperatury dla Kraków w miesiacu Lipiec wynosi 20.3°C
 ************************************************************
+Srednia wartosci temperatury dla Kraków w miesiacu Sierpień wynosi 21.2°C
+************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Kwiecień wynosi 10.4°C
@@ -19,6 +21,8 @@ Srednia wartosci temperatury dla Poznań w miesiacu Maj wynosi 15.5°C
 Srednia wartosci temperatury dla Poznań w miesiacu Czerwiec wynosi 20.2°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Lipiec wynosi 19.8°C
+************************************************************
+Srednia wartosci temperatury dla Poznań w miesiacu Sierpień wynosi 19.4°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
 ************************************************************
@@ -30,6 +34,8 @@ Srednia wartosci temperatury dla Radom w miesiacu Czerwiec wynosi 20.5°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Lipiec wynosi 20.2°C
 ************************************************************
+Srednia wartosci temperatury dla Radom w miesiacu Sierpień wynosi 20.8°C
+************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Kwiecień wynosi 9.9°C
@@ -40,6 +46,8 @@ Srednia wartosci temperatury dla Warszawa w miesiacu Czerwiec wynosi 20.7°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Lipiec wynosi 20.4°C
 ************************************************************
+Srednia wartosci temperatury dla Warszawa w miesiacu Sierpień wynosi 22.3°C
+************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Kwiecień wynosi 10.2°C
@@ -49,4 +57,6 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Maj wynosi 15.7°C
 Srednia wartosci temperatury dla Wrocław w miesiacu Czerwiec wynosi 20.1°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Lipiec wynosi 20.2°C
+************************************************************
+Srednia wartosci temperatury dla Wrocław w miesiacu Sierpień wynosi 20.8°C
 ************************************************************
