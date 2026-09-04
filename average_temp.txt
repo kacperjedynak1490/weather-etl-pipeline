@@ -12,7 +12,7 @@ Srednia wartosci temperatury dla Kraków w miesiacu Lipiec wynosi 20.3°C
 ************************************************************
 Srednia wartosci temperatury dla Kraków w miesiacu Sierpień wynosi 21.5°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Wrzesień wynosi 19.9°C
+Srednia wartosci temperatury dla Kraków w miesiacu Wrzesień wynosi 20.2°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
@@ -40,7 +40,7 @@ Srednia wartosci temperatury dla Radom w miesiacu Lipiec wynosi 20.2°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Sierpień wynosi 21.3°C
 ************************************************************
-Srednia wartosci temperatury dla Radom w miesiacu Wrzesień wynosi 19.3°C
+Srednia wartosci temperatury dla Radom w miesiacu Wrzesień wynosi 19.5°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
@@ -54,7 +54,7 @@ Srednia wartosci temperatury dla Warszawa w miesiacu Lipiec wynosi 20.4°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Sierpień wynosi 20.8°C
 ************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Wrzesień wynosi 19.0°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Wrzesień wynosi 19.1°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
