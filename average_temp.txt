@@ -54,7 +54,7 @@ Srednia wartosci temperatury dla Warszawa w miesiacu Lipiec wynosi 20.4°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Sierpień wynosi 20.8°C
 ************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Wrzesień wynosi 19.0°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Wrzesień wynosi 19.1°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
@@ -68,5 +68,5 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Lipiec wynosi 20.2°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Sierpień wynosi 21.0°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 19.2°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 19.1°C
 ************************************************************
