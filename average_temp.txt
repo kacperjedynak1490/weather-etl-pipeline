@@ -68,5 +68,5 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Lipiec wynosi 20.2°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Sierpień wynosi 21.0°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 19.0°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 18.9°C
 ************************************************************
