@@ -14,7 +14,7 @@ Srednia wartosci temperatury dla Kraków w miesiacu Sierpień wynosi 21.5°C
 ************************************************************
 Srednia wartosci temperatury dla Kraków w miesiacu Wrzesień wynosi 16.4°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Październik wynosi 14.5°C
+Srednia wartosci temperatury dla Kraków w miesiacu Październik wynosi 14.9°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
@@ -30,7 +30,7 @@ Srednia wartosci temperatury dla Poznań w miesiacu Sierpień wynosi 19.7°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Wrzesień wynosi 16.3°C
 ************************************************************
-Srednia wartosci temperatury dla Poznań w miesiacu Październik wynosi 15.2°C
+Srednia wartosci temperatury dla Poznań w miesiacu Październik wynosi 15.3°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
 ************************************************************
@@ -46,7 +46,7 @@ Srednia wartosci temperatury dla Radom w miesiacu Sierpień wynosi 21.3°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Wrzesień wynosi 16.3°C
 ************************************************************
-Srednia wartosci temperatury dla Radom w miesiacu Październik wynosi 14.0°C
+Srednia wartosci temperatury dla Radom w miesiacu Październik wynosi 14.3°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Marzec wynosi 6.7°C
 ************************************************************
@@ -62,7 +62,7 @@ Srednia wartosci temperatury dla Warszawa w miesiacu Sierpień wynosi 20.8°C
 ************************************************************
 Srednia wartosci temperatury dla Warszawa w miesiacu Wrzesień wynosi 16.3°C
 ************************************************************
-Srednia wartosci temperatury dla Warszawa w miesiacu Październik wynosi 13.9°C
+Srednia wartosci temperatury dla Warszawa w miesiacu Październik wynosi 14.2°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Marzec wynosi 4.2°C
 ************************************************************
@@ -78,5 +78,5 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Sierpień wynosi 21.0°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 16.5°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Październik wynosi 15.0°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Październik wynosi 15.2°C
 ************************************************************
