@@ -30,7 +30,7 @@ Srednia wartosci temperatury dla Poznań w miesiacu Sierpień wynosi 19.7°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Wrzesień wynosi 16.3°C
 ************************************************************
-Srednia wartosci temperatury dla Poznań w miesiacu Październik wynosi 14.6°C
+Srednia wartosci temperatury dla Poznań w miesiacu Październik wynosi 14.5°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
 ************************************************************
@@ -78,5 +78,5 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Sierpień wynosi 21.0°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 16.5°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Październik wynosi 14.5°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Październik wynosi 14.4°C
 ************************************************************
