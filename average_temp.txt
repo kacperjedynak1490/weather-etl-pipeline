@@ -14,7 +14,7 @@ Srednia wartosci temperatury dla Kraków w miesiacu Sierpień wynosi 21.5°C
 ************************************************************
 Srednia wartosci temperatury dla Kraków w miesiacu Wrzesień wynosi 16.4°C
 ************************************************************
-Srednia wartosci temperatury dla Kraków w miesiacu Październik wynosi 11.0°C
+Srednia wartosci temperatury dla Kraków w miesiacu Październik wynosi 10.9°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Marzec wynosi 6.0°C
 ************************************************************
@@ -30,7 +30,7 @@ Srednia wartosci temperatury dla Poznań w miesiacu Sierpień wynosi 19.7°C
 ************************************************************
 Srednia wartosci temperatury dla Poznań w miesiacu Wrzesień wynosi 16.3°C
 ************************************************************
-Srednia wartosci temperatury dla Poznań w miesiacu Październik wynosi 11.6°C
+Srednia wartosci temperatury dla Poznań w miesiacu Październik wynosi 11.5°C
 ************************************************************
 Srednia wartosci temperatury dla Radom w miesiacu Marzec wynosi 7.6°C
 ************************************************************
