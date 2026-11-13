@@ -88,5 +88,5 @@ Srednia wartosci temperatury dla Wrocław w miesiacu Wrzesień wynosi 16.5°C
 ************************************************************
 Srednia wartosci temperatury dla Wrocław w miesiacu Październik wynosi 11.2°C
 ************************************************************
-Srednia wartosci temperatury dla Wrocław w miesiacu Listopad wynosi 4.4°C
+Srednia wartosci temperatury dla Wrocław w miesiacu Listopad wynosi 4.5°C
 ************************************************************
